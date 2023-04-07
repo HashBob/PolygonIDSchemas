@@ -4,7 +4,7 @@
   "$metadata": {
     "uris": {
       "jsonLdContext": "https://github.com/HashBob/PolygonIDSchemas/blob/main/UserIdentity.json-ld",
-      "jsonSchema": "https://github.com/HashBob/PolygonIDSchemas/edit/main/UserIdentity.json"
+      "jsonSchema": "https://raw.githubusercontent.com/HashBob/PolygonIDSchemas/main/UserIdentity.json"
     }
   },
   "required": [
