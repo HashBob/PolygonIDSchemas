@@ -3,7 +3,7 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://github.com/HashBob/PolygonIDSchemas/blob/main/UserIdentity.json-ld",
+      "jsonLdContext": "https://raw.githubusercontent.com/HashBob/PolygonIDSchemas/main/UserIdentity.json-ld",
       "jsonSchema": "https://raw.githubusercontent.com/HashBob/PolygonIDSchemas/main/UserIdentity.json"
     }
   },
